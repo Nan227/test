@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,18 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# clickygame
+
+## Instruction 
+
+1. The application should render different images (of your choice) to the screen. Each image should listen for click events.
+
+2. The application should keep track of the user's score. The user's score should be incremented when clicking an image for the first time.  The user's score should be reset to 0 if they click the same image more than once.
+
+3. Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
+
+4. Full score is 10 points. 
+
+5. Once the user's score is reset after an incorrect guess, the game should restart.
+>>>>>>> 7efd3b70fe3ca7450680bca93ff7d7647cfaa42d
