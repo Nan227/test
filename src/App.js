@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Nav from "./components/Nav";
-import cards from "./cards.json"
+import cards from "./cards.json";
 import './App.css';
 import ClickItems from "./components/ClickItems";
 
@@ -19,6 +19,8 @@ class App extends Component {
         { this.state.cards.map( card => (
           <ClickItems 
           key={card.id}
+          id={card.id}
+          shake={!this.state.score && this.state.topScore } 
            images = {card.images}
            />
 
