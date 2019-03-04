@@ -3,12 +3,17 @@ import Nav from "./components/Nav";
 import cards from "./cards.json";
 import './App.css';
 import ClickItems from "./components/ClickItems";
+import './assets/images';
+// import {Row, CardPanel, Col} from 'react-materialize';
 
 class App extends Component {
   state = {
     cards, 
     score : 0,
-    topScore: 0
+    highScore: 0,
+    clicked:[],
+    correct: undefined,
+    winGame: false
   }
 
   
