@@ -1,6 +1,6 @@
 import React from 'react';
 const Main = (props) => 
-<div className='container text-conter'>
+<div className='container text-center'>
 {props.children}
 </div>
 export default Main;
