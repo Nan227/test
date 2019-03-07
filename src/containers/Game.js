@@ -78,15 +78,15 @@ class Game extends Component {
   render() {
     return (
       <React.Fragment>
-        <nav className="navbar navbar-dark bg-dark d-flex justify-space-between">
-          <span className="navbar-brand mb-0">Clicky Game</span>
+        <nav className="navbar navbar-dark bg-success d-flex justify-space-between">
+          <span className="navbar-brand mb-0"><h1>Clicky Game</h1></span>
           <span className="scoreInfo text-light">
-            Current Score: {this.state.currentScore} || Top Score: {this.state.topScore}
-          </span>
+           <h2> Current Score: {this.state.currentScore} | Top Score: {this.state.topScore}
+           </h2> </span>
         </nav>
-        <div className="jumbotron jumbotron-fluid bg-warning text-dark text-center">
-          <h1>Welcome to the clicky game!</h1>
-          <p>Click on a card to get started. Don't click on the same card twice.</p>
+        <div className="jumbotron jumbotron-fluid bg-gradient-primary text-dark text-center">
+          <h1>Memory Challenge Game!</h1>
+          <p> Click on a picture to get started. Don't click on the same picture twice.</p>
         </div>
         <div className="container-fluid">
           <div className="row align-items-center justify-content-between">
