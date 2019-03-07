@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "card1",
+    "image": "./images/card1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "card2",
+    "image": "./images/card2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "card3",
+    "image": "./images/card3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "card4",
+    "image": "./images/card4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "card5",
+    "image": "./images/card5.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "card6",
+    "image": "./images/card6.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "card7",
+    "image": "./images/card7.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "card8",
+    "image": "./images/card8.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "card9",
+    "image": "./images/card9.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "card10",
+    "image": "./images/card10.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "card11",
+    "image": "./images/card11.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "card12",
+    "image": "./images/card12.jpg",
+    "clicked": false
+  } 
+]
