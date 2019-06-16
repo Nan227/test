@@ -12,11 +12,11 @@
 
 5. Once the user's score is reset after an incorrect guess, the game should restart.
 
-# screenshot 1
+# Screenshot 
 
 ![clickygame](https://user-images.githubusercontent.com/45270593/53965739-bcae9500-40bf-11e9-9619-fbb0f9b95535.gif)
 
-# screenshot 2
+# Screenshot 
 
 ![clicky game](https://user-images.githubusercontent.com/45270593/53966130-832a5980-40c0-11e9-8c56-790763f4a5f9.png)
 
