@@ -20,6 +20,6 @@
 
 ![clicky game](https://user-images.githubusercontent.com/45270593/53966130-832a5980-40c0-11e9-8c56-790763f4a5f9.png)
 
-# Try it out
+# Try it out on this page!
 
 https://nan227.github.io/clickygame/
