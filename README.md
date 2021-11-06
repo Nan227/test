@@ -1,6 +1,6 @@
 # Clicky Game
 
-## Instruction 
+## Instructions
 
 1. The application should render different images (12 images). 
 
